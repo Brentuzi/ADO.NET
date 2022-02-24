@@ -1,0 +1,10 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\bin\Debug\ITMO.ADO.NET-Practice-5.2-DataBindingSimple.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\bin\Debug\ITMO.ADO.NET-Practice-5.2-DataBindingSimple.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\bin\Debug\ITMO.ADO.NET-Practice-5.2-DataBindingSimple.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\LAB 5 BindingSimple.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\ITMO.ADO.NET_Practice_5._2_DataBindingSimple.DataBindingSimple.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\ITMO.ADO.NET_Practice_5._2_DataBindingSimple.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\LAB 5 BindingSimple.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\LAB 5 BindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\ITMO.ADO.NET-Practice-5.2-DataBindingSimple.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\DBC LAB 5 DataBindingSimple\obj\Debug\ITMO.ADO.NET-Practice-5.2-DataBindingSimple.pdb
