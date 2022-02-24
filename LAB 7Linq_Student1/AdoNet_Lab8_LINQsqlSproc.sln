@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNet_Lab8_LINQsqlSproc", "AdoNet_Lab8_LINQsqlSproc.csproj", "{9EC53C81-F3B8-4230-9395-8E7D45006151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC53C81-F3B8-4230-9395-8E7D45006151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC53C81-F3B8-4230-9395-8E7D45006151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC53C81-F3B8-4230-9395-8E7D45006151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC53C81-F3B8-4230-9395-8E7D45006151}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1846B2-54FB-48B8-A86F-43ADA417163E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsqlSproc\obj\Debug\AdoNet_Lab8_LINQsqlSproc.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsqlSproc\obj\Debug\AdoNet_Lab8_LINQsqlSproc.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsqlSproc\obj\Debug\AdoNet_Lab8_LINQsqlSproc.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsqlSproc\obj\Debug\AdoNet_Lab8_LINQsqlSproc.csproj.GenerateResource.cache

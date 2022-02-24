@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.exe.config
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.exe
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.pdb
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.exe
+C:\Users\admin\source\repos\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\bin\Debug\AdoNet_Lab7_Linq_Student.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab7_Linq_Student\obj\Debug\AdoNet_Lab7_Linq_Student.pdb
