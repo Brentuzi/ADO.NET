@@ -1,0 +1,19 @@
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+E:\ITMO\Ado_Net\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\bin\Debug\AdoNet_Lab6_SavingDataSetXml.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Form1.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\AdoNet_Lab6_SavingDataSetXml\obj\Debug\AdoNet_Lab6_SavingDataSetXml.pdb
