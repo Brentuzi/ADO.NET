@@ -1,0 +1,5 @@
+C:\Users\Alex-\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csprojAssemblyReference.cache
+C:\Users\Alex-\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\Alex-\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\Alex-\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\Alex-\source\repos\CreatingDataTable\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
