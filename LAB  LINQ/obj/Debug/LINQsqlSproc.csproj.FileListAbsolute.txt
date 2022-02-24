@@ -1,0 +1,9 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\bin\Debug\ITMO.ADO.NET-Practice-8.3-LINQsqlSproc.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\bin\Debug\ITMO.ADO.NET-Practice-8.3-LINQsqlSproc.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\bin\Debug\ITMO.ADO.NET-Practice-8.3-LINQsqlSproc.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\LINQsqlSproc.LINQsqlSproc.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\ITMO.ADO.NET_Practice_8._3_LINQsqlSproc.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\ITMO.ADO.NET-Practice-8.3-LINQsqlSproc.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB  LINQ\obj\Debug\ITMO.ADO.NET-Practice-8.3-LINQsqlSproc.pdb

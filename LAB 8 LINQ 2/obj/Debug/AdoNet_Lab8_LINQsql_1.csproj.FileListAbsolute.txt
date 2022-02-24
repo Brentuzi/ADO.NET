@@ -1,0 +1,9 @@
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.csprojAssemblyReference.cache
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.Form1.resources
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.exe
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.exe
+E:\ITMO\Ado_Net\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.pdb

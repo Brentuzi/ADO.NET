@@ -1,0 +1,10 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\Linq_Student1.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\Linq_Student1.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\Linq_Student1.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\AdoNet_Lab8_LINQsql_1.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\bin\Debug\AdoNet_Lab8_LINQsql_1.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab8_LINQsql_1\obj\Debug\Linq_Student1.Form1.resources
