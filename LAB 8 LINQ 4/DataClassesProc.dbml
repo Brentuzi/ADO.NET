@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Northwind" Class="DataClassesProcDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
-  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-IITVJLG\SQLEXPRESS;Initial Catalog=Northwind;Integrated Security=True" SettingsObjectName="ITMO.ADO.NET_Practice_8._4_LINQsqlM.Properties.Settings" SettingsPropertyName="NorthwindConnectionString" Provider="System.Data.SqlClient" />
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-IITVJLG\SQLEXPRESS;Initial Catalog=Northwind;Integrated Security=True" SettingsObjectName="LINQsqlM4.Properties.Settings" SettingsPropertyName="NorthwindConnectionString" Provider="System.Data.SqlClient" />
   <Function Name="dbo.[Ten Most Expensive Products]" Method="Ten_Most_Expensive_Products">
     <ElementType Name="Ten_Most_Expensive_ProductsResult">
       <Column Name="TenMostExpensiveProducts" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
