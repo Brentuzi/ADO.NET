@@ -1,0 +1,10 @@
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\bin\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\bin\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\bin\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET_Practice_8._4_LINQsqlM.LINQsqlM.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET_Practice_8._4_LINQsqlM.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\LAB 8 LINQ 4\obj\Debug\ITMO.ADO.NET-Practice-8.4-LINQsqlM.pdb
