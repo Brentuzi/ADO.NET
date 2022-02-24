@@ -1,0 +1,18 @@
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.exe.config
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.Properties.Resources.resources
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.csproj.GenerateResource.cache
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.exe
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.pdb
+E:\ITMO\Ado_Net\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.Form1.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.exe.config
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\bin\Debug\AdoNet_Lab5_DataGridViewExample.pdb
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.csprojAssemblyReference.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.Form1.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.Properties.Resources.resources
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.exe
+C:\Users\Alex-\OneDrive\Рабочий стол\ITMO_AdoNet-master\AdoNet_Lab5_DataGridViewExample\obj\Debug\AdoNet_Lab5_DataGridViewExample.pdb
